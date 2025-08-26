@@ -1,2 +1,3 @@
 ls
 hostname -I
+pwd
